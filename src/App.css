@@ -1,0 +1,130 @@
+
+.img{
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  right:320px;
+  top:20px
+}
+
+.img02{
+  width: 20px;
+  height: 20px;
+
+}
+
+.carinho{
+  position: absolute;
+  right: 50px;
+  top:20px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+  
+header{
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  padding-top: 20px;
+ 
+ 
+}
+
+input{
+  width: 400px;
+  height: 30px;
+  
+}
+
+h1{
+  color:#3287c1;
+ margin-top: 0;
+}
+
+.img_main{
+position: relative;
+ width: 100%;
+ height: 50%;
+
+}
+
+.container {
+  position: relative;
+}
+
+.titulo, .texto{
+position: absolute;
+font-size: 32px;
+left: 100px;
+top: 100px;
+
+}
+
+.texto{
+color: white;
+}
+
+.img_notebook{
+  width: 200px;
+  height: 200px;
+
+
+}
+.section, .section01
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+
+}
+.section02{
+  display: flex;
+  justify-content: center;
+  padding-top: 60px
+
+}
+.section01_titulo{
+  position: relative;
+  left: 100px;
+}
+
+.section02_titulo{
+  position: relative;
+  right: 320px;
+ 
+}
+
+
+.section_texto{
+  position: absolute;
+  width: 19%;
+  top:155%;
+  padding-top: 20px;
+}
+.section02_texto{
+  position: absolute;
+  width: 19%;
+}
+
+.section01_texto{
+ width: 30%;
+ position: relative;
+  top:170%;
+  right:200px;
+
+}
+.section_link{
+  color: #3287c1;
+  padding-left: 08px;
+}
+
+
+a:hover{
+  zoom:105%;
+  color:#3287c1;
+}
